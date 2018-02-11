@@ -1,0 +1,14 @@
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\bin\Debug\InstagramPost.exe.config
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\bin\Debug\InstagramPost.exe
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\bin\Debug\InstagramPost.pdb
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\bin\Debug\InstaSharp.dll
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\bin\Debug\Newtonsoft.Json.dll
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\bin\Debug\InstaSharp.pdb
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\bin\Debug\InstaSharp.dll.config
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\bin\Debug\Newtonsoft.Json.xml
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\obj\Debug\InstagramPost.csprojResolveAssemblyReference.cache
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\obj\Debug\InstagramPost.Index.resources
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\obj\Debug\InstagramPost.Properties.Resources.resources
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\obj\Debug\InstagramPost.csproj.GenerateResource.Cache
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\obj\Debug\InstagramPost.exe
+c:\users\alexa\documents\visual studio 2017\Projects\InstagramPost\InstagramPost\obj\Debug\InstagramPost.pdb
