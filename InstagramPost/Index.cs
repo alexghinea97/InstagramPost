@@ -15,6 +15,10 @@ namespace InstagramPost
 {
     public partial class Index : Form
     {
+        private string username { get; set; }
+
+        private string password { get; set; }
+
         public Index()
         {
             InitializeComponent();
@@ -35,7 +39,7 @@ namespace InstagramPost
                 imagePath = openFileDialog1.FileName;
             }
             //upload to instagram
-            var uploader = new InstagramUploader("username", ConvertToSecureString("password"));
+            var uploader = new InstagramUploader(username, ConvertToSecureString(password));
             uploader.InvalidLoginEvent += InvalidLoginEvent;
             uploader.ErrorEvent += ErrorEvent;
             uploader.OnCompleteEvent += OnCompleteEvent;
@@ -102,6 +106,16 @@ namespace InstagramPost
         public void InvalidLoginEvent(object sender, EventArgs e)
         {
             txtDebug.AppendText("Error while logging " + ((ErrorResponse)e).Message + Environment.NewLine);
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            username = textBox1.Text;
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            password = textBox2.Text;
         }
     }
 }
