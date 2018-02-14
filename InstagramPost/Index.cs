@@ -115,7 +115,19 @@ namespace InstagramPost
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
+            this.textBox2.Text = string.Empty;
+            this.textBox2.ForeColor = Color.Black;
             password = textBox2.Text;
+        }
+
+        private void textBox2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = string.Empty;
+        }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = string.Empty;
         }
     }
 }
