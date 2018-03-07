@@ -5,4 +5,4 @@ Windows Forms App - Post image on Instagram
 
     -Select an image from computer
 
-    -Post it to Instagram
+    -Post it on Instagram
